@@ -1,0 +1,6 @@
+{
+  "name": "Fashionista Factory Events",
+  "description": "Bespoke Weddings, Premium Corporate Experiences & Elite Theme Decor in Pune",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
